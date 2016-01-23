@@ -12,7 +12,7 @@ located in the same folder.
 - Video03_09Nov2015.mp4
 - Video04_09Nov2015.mp4
 - Video05_09Nov2015.mp4
-- result
+- result (folder)
 	+ Video01_09Nov2015
 		+ FishPositions
 		+ FishWithoutBackground	
@@ -28,5 +28,6 @@ located in the same folder.
 	+ Video05_09Nov2015
 		+ FishPositions
 		+ FishWithoutBackground
---------------------------------------------------------------------
+
+
 
