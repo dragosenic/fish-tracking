@@ -4,13 +4,13 @@ This is a program written in Matlab to detect and track the fish in the tank. It
 
 Instructions:
 
-Open "fishTracking_Drago_Senic.m" file in MATLAB and run. 
+Open "fishTracking.m" file in MATLAB and run. 
 Please make sure that "result" folder is in the same directory with 
-"fishTracking_Drago_Senic.m" file. "result" folder must contain all
+"fishTracking.m" file. "result" folder must contain all
 subfolders as originaly provided. Also make sure that all videos are also
 located in the same folder.
 
-- fishTracking_Drago_Senic.m
+- fishTracking.m
 - Video01_09Nov2015.mp4
 - Video02_09Nov2015.mp4
 - Video03_09Nov2015.mp4
