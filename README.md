@@ -16,17 +16,17 @@ located in the same folder.
 	+ Video01_09Nov2015
 		+ FishPositions
 		+ FishWithoutBackground	
-	Video02_09Nov2015
-		FishPositions
-		FishWithoutBackground
-	Video03_09Nov2015
-		FishPositions
-		FishWithoutBackground
-	Video04_09Nov2015
-		FishPositions
-		FishWithoutBackground
-	Video05_09Nov2015
-		FishPositions
-		FishWithoutBackground
+	+ Video02_09Nov2015
+		+ FishPositions
+		+ FishWithoutBackground
+	+ Video03_09Nov2015
+		+ FishPositions
+		+ FishWithoutBackground
+	+ Video04_09Nov2015
+		+ FishPositions
+		+ FishWithoutBackground
+	+ Video05_09Nov2015
+		+ FishPositions
+		+ FishWithoutBackground
 --------------------------------------------------------------------
 
